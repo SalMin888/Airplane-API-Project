@@ -19,5 +19,6 @@ def get_model(airplanes: str):
                 'plane_status': history.get('plane_status')}
 
             
-
+# use uvicron
+# https://aviationstack.com/quickstart
     
